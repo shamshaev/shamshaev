@@ -2,7 +2,7 @@
 
 ## Java developer
 
-I’ve been learning to code for one year after switching careers from automobile production. Programming was my second passion in my youth, and I decided that I did not want to miss the opportunity to realize myself in this direction as well. I found a passion for backend development because I’d like the idea to make a business logic that makes this business better, more efficient and profitable.
+I’ve been learning to code for one year after switching careers from automobile production. Programming was my second passion in my youth, and I decided that I did not want to miss the opportunity to realize myself in this direction as well. I found a passion for backend development because I like logical challenges and also like the idea to make a business logic that makes this business better, more efficient and profitable.
 
 - 📍	I'm currently based in Naberezhnye Chelny, Russia
 - 🎓 I graduated from Kazan Technical University named after A. N. Tupolev
