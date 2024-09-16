@@ -1,6 +1,6 @@
-# Hi 👋 My name is  Andrey Shamshaev
+# Hi there 👋
 
-## Java developer
+### I'm a Java developer, currently looking for a job.
 
 I’ve been learning to code for one year after switching careers from automobile production. I found a passion for backend development because I like logical challenges and also like the idea to make a business logic that makes this business better, more efficient and profitable.
 
