@@ -1,12 +1,9 @@
 # Hi there 👋
 
-### I'm a Java developer, currently looking for a job.
-
-I’ve been learning to code for one year after switching careers from automobile production. I found a passion for backend development because I like logical challenges and also like the idea to make a business logic that makes this business better, more efficient and profitable.
+### I'm a Java developer.
 
 - 📍	I'm currently based in Naberezhnye Chelny, Russia
 - 🎓 I graduated from Kazan Technical University named after A. N. Tupolev
-- 📚 I'm learning the Spring Framework and more
 - ✉️ You can contact me at  [an.shamshaev@gmail.com](mailto:an.shamshaev@gmail.com) or [Telegram](https://t.me/andreyPBKDF2)
 
 ### Skills
