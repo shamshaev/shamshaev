@@ -4,7 +4,7 @@
 
 - 📍	I'm currently based in Naberezhnye Chelny, Russia
 - 🎓 I graduated from Kazan Technical University named after A. N. Tupolev
-- ✉️ You can contact me at  [an.shamshaev@gmail.com](mailto:an.shamshaev@gmail.com) or [Telegram](https://t.me/andreyPBKDF2)
+- ✉️ You can contact me at  [an.shamshaev@gmail.com](mailto:an.shamshaev@gmail.com) or [Telegram](https://t.me/s_n_andrey)
 
 ### Skills
 
